@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Fixed
 
-- Build against current Flipper Zero firmware SDK (API 88.x): replaced non-standard `u_int32_t` with standard `uint32_t`
+- Build against current Flipper Zero firmware SDK (API 88.x): replaced a non-standard integer type no longer provided by the current toolchain headers
 
 # 1.0.1 - 2024-01-04
 
